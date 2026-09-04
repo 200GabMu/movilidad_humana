@@ -1,0 +1,15 @@
+{
+  "usuarios": [
+    {
+      "nombre": "admin",
+      "rol": "administrador",
+      "hash": "bad24f960a2d4af754066282a200c3125dfa8ebe3577c1c1e32f4f0b9fa8604c",
+      "sal": "9ad2eff3ebc8a1f69cb2b4413d033a0e",
+      "activo": true,
+      "creado": "2026-09-04T21:42:25",
+      "creado_por": "primer arranque",
+      "ultimo_acceso": "",
+      "extra": {}
+    }
+  ]
+}
