@@ -1,0 +1,30 @@
+{
+  "id": "v_20260904_214821",
+  "fecha": "2026-09-04T21:48:21",
+  "modo": "agregar",
+  "archivos": [
+    "AGOSTO_2026_Matriz de Caracterización Servicio de Movilidad Humana.xlsx",
+    "JULIO_2026_Matriz de Caracterización Servicio de Movilidad Humana.xlsx",
+    "JUNIO_2026_Matriz de Caracterización Servicio de Movilidad Humana.xlsx"
+  ],
+  "hojas": 3,
+  "filas": 24884,
+  "columnas": 82,
+  "nota": "",
+  "base": "v_20260904_214419",
+  "stats": {
+    "celdas_seleccione": 3556,
+    "filas_eliminadas": 346,
+    "celdas_ortografia": 60823,
+    "nacionalidades_corregidas": 5,
+    "valores_fuera_de_lugar": 4,
+    "celdas_rellenadas": 437730,
+    "columnas_agregadas": [],
+    "columnas_extra": [],
+    "col_nombres": "NOMBRES",
+    "col_apellidos": "APELLIDOS",
+    "hojas_nuevas": 3,
+    "filas_nuevas": 1688
+  },
+  "usuario": "admin"
+}
