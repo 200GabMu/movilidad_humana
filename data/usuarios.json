@@ -10,6 +10,17 @@
       "creado_por": "primer arranque",
       "ultimo_acceso": "2026-09-07T17:14:14",
       "extra": {}
+    },
+    {
+      "nombre": "brigadacuenca2026",
+      "rol": "administrador",
+      "hash": "09a1a4c898674af58f4ed809af869d2314d712912f562e044b6992a83025e8a5",
+      "sal": "075add93fbb5214785a0793d622185c1",
+      "activo": true,
+      "creado": "2026-09-07T17:24:34",
+      "creado_por": "admin",
+      "ultimo_acceso": "",
+      "extra": {}
     }
   ]
 }
