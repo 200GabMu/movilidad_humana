@@ -10,17 +10,6 @@
       "creado_por": "primer arranque",
       "ultimo_acceso": "2026-09-07T17:14:14",
       "extra": {}
-    },
-    {
-      "nombre": "diego",
-      "rol": "operador",
-      "hash": "d0e9af0cd237a21a4402017b7be6f9f042e8676a3549958803517d3225770bef",
-      "sal": "d8345cdd9381a7467ff68e8f6b78c99a",
-      "activo": true,
-      "creado": "2026-09-07T17:20:21",
-      "creado_por": "admin",
-      "ultimo_acceso": "",
-      "extra": {}
     }
   ]
 }
